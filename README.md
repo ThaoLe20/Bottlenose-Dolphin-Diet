@@ -3,7 +3,7 @@
 This repository provides an example on how to make your interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) .
 
 If you have comments or questions please [open an issue](https://github.com/jhpoelen/eol-globi-data/issues/new).
-
+Diet of bottlenose dolphins (Tursiops truncatus} from the Gulf of Cadiz: Insights from stomach content and stable isotope analyses
 ## Share Your Interaction Data
 If you want to your own data discoverable through GloBI:
 
