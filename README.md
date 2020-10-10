@@ -2,6 +2,8 @@
 
 "Diet of bottlenose dolphins (Tursiops truncatus} from the Gulf of Cadiz: Insights from stomach content and stable isotope analyses"
 
+Diet analyses are important to understand the ecosystem of ocean species.  In this study, both stomach content analyses (SCA) and stable isotope analyses (SIA) approaches are combined to identify the prey items and describe bottlenose dolphin diet in North Atlantic Ocean. 
+
 This repository provides an example on how to make your interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) .
 
 If you have comments or questions please [open an issue](https://github.com/jhpoelen/eol-globi-data/issues/new).
